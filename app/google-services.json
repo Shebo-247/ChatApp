@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "316975835212",
+    "firebase_url": "https://chatapp-eedbf.firebaseio.com",
+    "project_id": "chatapp-eedbf",
+    "storage_bucket": "chatapp-eedbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316975835212:android:8c90d7fe5329f127",
+        "android_client_info": {
+          "package_name": "com.shebo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316975835212-afp5kgm0qjsudhvjpungk0jn3e4fnlnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shebo.chatapp",
+            "certificate_hash": "f145d6bce7cf36315934030f326423db752022e0"
+          }
+        },
+        {
+          "client_id": "316975835212-n3jlqgjlticq9b9g1r7iaip7cdgt82c4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shebo.chatapp",
+            "certificate_hash": "8f2e825102890574e1514ece39ce787a8bc29ab0"
+          }
+        },
+        {
+          "client_id": "316975835212-j7ckacktrmmk4t9hnljknommdotoke1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-hqZ3FXdc4h_If0g9jt5FZut9_FN00aU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316975835212-j7ckacktrmmk4t9hnljknommdotoke1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
